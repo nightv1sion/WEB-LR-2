@@ -236,6 +236,7 @@ h1 {
 
 .avatar-image > img {
     width: 100%;
+    cursor: pointer;
 }
 .on-navigating-block{
     position: absolute;
